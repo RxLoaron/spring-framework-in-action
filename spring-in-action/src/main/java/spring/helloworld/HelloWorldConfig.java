@@ -13,7 +13,7 @@ public class HelloWorldConfig {
     // @Bean 注释用于定义 bean。方法名称与 bean id 或默认名称相同。
 
     //@Bean(value = "helloworld")
-  //  @Description("A HelloWorld Bean")
+    //@Description("A HelloWorld Bean")
     public IHelloWorld beanHelloWorld() {
         return new HelloWorldImpl();
     }
