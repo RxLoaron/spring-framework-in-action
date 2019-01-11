@@ -39,3 +39,4 @@ atlassian-ide-plugin.xml
 .gradletasknamecache
 /spring-framework-4.3.14.RELEASE.iml
 /.settings/
+/spring-aop/src/main/java/org/springframework/aop/target/
